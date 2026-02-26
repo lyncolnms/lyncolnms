@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Lyncoln Mauricio 👋
 
-<!--
-**lyncolnms/lyncolnms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer especializado em .NET/C# e Arquitetura de Microserviços, apaixonado por construir sistemas distribuídos escaláveis e observáveis.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+## 💡 Expertise
+
+- **Backend Development**: .NET/C#, Microservices, RESTful APIs
+- **Observability**: OpenTelemetry, Jaeger, Loki, Grafana, Prometheus
+- **DevOps**: Docker, Kubernetes, CI/CD
+- **Messaging**: RabbitMQ
+- **Databases**: SQL Server
+- **Mobile**: MAUI, Kotlin
+
+## 🔧 Currently Working On
+
+- Distributed tracing implementations with OpenTelemetry
+- Multi-tenant architectures
+- Real-time monitoring solutions
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lyncolnmauricio)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lyncolnms)
+
+---
+⚡ Fun fact: Quando não estou codando, você me encontra na academia ou jogando Path of Exile 2!
