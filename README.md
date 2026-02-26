@@ -1,6 +1,6 @@
 # Hi there, I'm Lyncoln Mauricio 👋
 
-Full-Stack Developer especializado em .NET/C# e Arquitetura de Microserviços, apaixonado por construir sistemas distribuídos escaláveis e observáveis.
+Full-Stack Developer specializing in .NET/C# and Microservices Architecture, passionate about building scalable and observable distributed systems.
 
 ## 🚀 Tech Stack
 
@@ -33,4 +33,4 @@ Full-Stack Developer especializado em .NET/C# e Arquitetura de Microserviços, a
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lyncolnms)
 
 ---
-⚡ Fun fact: Quando não estou codando, você me encontra na academia ou jogando Path of Exile 2!
+⚡ Fun fact: When I'm not coding, you'll find me at the gym or playing Path of Exile 2!
