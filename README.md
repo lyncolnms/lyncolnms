@@ -42,4 +42,3 @@ Mobile-first Developer focusing on .NET MAUI and secure, modern app experiences.
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lyncolnms)
 
 ---
-⚡ Fun fact: When I'm not coding, you'll find me at the gym or playing PUBG!
